@@ -10,12 +10,19 @@ Julia Marques
 
 October 2022, Berlin
 
+
 Content
+
 
 Project_Description
 
-I would like to analyse a Data set of Amazon reviews from 2018, considering only the Home and Kitchen products category.
-The goal to extract people's opinions from the review texts, and classify them into sentiment classes in order to obtain insights about products popularity and people's sentiments about them. 
+I would like to analyze a Data set of Amazon reviews from 2018, considering only one category, and apply Sentiment Analysis to it.
+
+
+Goal
+
+The goal to extract people's opinions from the review texts, and classify them into sentiment classes in order to obtain insights into products’ popularity and people's sentiments about them. 
+
 
 Datasets 
 
