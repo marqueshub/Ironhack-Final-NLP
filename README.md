@@ -5,7 +5,7 @@
 ### Final project
 ### Julia Marques
 
-October 2022, Berlin
+December 2022, Berlin
 
 
 # Content
