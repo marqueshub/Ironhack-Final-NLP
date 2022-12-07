@@ -13,7 +13,7 @@ October 2022, Berlin
 
 ## Project Description
 
-I would like to analyze a Data set of Amazon reviews, considering only one category, and apply Sentiment Analysis to it.
+I would like to analyze a dataset of Amazon reviews, considering only one category, and apply Sentiment Analysis to it.
 
 
 ## Goal
@@ -23,4 +23,4 @@ The goal is to extract people's opinions from the review texts, and classify the
 
 ## Datasets 
 
-I intend to use a Dataset from "Home and Kitchen" products category for my analysis. 
+I intend to use a dataset from "Home and Kitchen" products category for my analysis. 
