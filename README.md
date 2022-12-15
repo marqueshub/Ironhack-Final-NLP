@@ -24,3 +24,8 @@ The goal is to extract people's opinions from the review texts, and classify the
 ## Datasets 
 
 I intend to use a dataset from "Home and Kitchen" products category for my analysis. 
+
+
+## Presentation 
+
+[Click here](https://drive.google.com/file/d/1jE6xx6h7oyy3o3oM5PdVP5Cbr8sMWwuP/view?usp=share_link)
