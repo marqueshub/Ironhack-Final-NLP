@@ -13,7 +13,7 @@ December 2022, Berlin
 
 ## Project Description
 
-I would like to analyze a dataset of Amazon reviews, considering only one category, and apply Sentiment Analysis to it.
+Analysis of a dataset of Amazon reviews with the Sentiment Analysis approach to it.
 
 
 ## Goal
