@@ -13,7 +13,7 @@ December 2022, Berlin
 
 ## Project Description
 
-Analysis of a dataset of Amazon reviews with the Sentiment Analysis approach to it.
+Analysis of a dataset of Amazon reviews with Sentiment Analysis approach to it.
 
 
 ## Goal
