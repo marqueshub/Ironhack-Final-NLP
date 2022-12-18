@@ -1,4 +1,4 @@
-# Amazon reviews - NLP - Sentiment Analysis
+# NLP - Sentiment Analysis
 
 ![68747470733a2f2f6269742e6c792f32566e58577232](https://user-images.githubusercontent.com/68123409/206127239-a4dea376-8b6a-4e0e-ab5d-630a20ef4012.png)
 
@@ -18,12 +18,12 @@ I would like to analyze a dataset of Amazon reviews, considering only one catego
 
 ## Goal
 
-The goal is to extract people's opinions from the review texts, and classify them into sentiment classes in order to obtain insights into products’ popularity, and people's sentiments about them. 
+The goal is to create a model to predict sentiment scores on new data and explore alternative models and solutions.
 
 
 ## Datasets 
 
-I intend to use a dataset from "Home and Kitchen" from 2018 products category for my analysis. 
+A dataset from "Home and Kitchen" from 2018 products category was used. 
 
 
 ## Presentation 
