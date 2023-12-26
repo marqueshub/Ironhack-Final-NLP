@@ -26,6 +26,6 @@ The goal is to create a model to predict sentiment scores on new data and explor
 A dataset from "Home and Kitchen" from 2018 products category was used. 
 
 
-## Presentation in Pdf
+## Presentation
 
 [Click here](https://prezi.com/view/4Z0PK2cgQGOeAv8tQpuh/)
